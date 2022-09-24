@@ -1,0 +1,38 @@
+.container {
+	max-width: 800px;
+	margin: auto;
+}
+
+.Sets {
+	padding: 15px 20px;
+	background: #fff9dc;
+	border-radius: 30px;
+	margin-bottom: 20px;
+}
+
+.info {
+	padding: 15px 20px;
+	background: #fff9dc;
+	border-radius: 30px;
+	margin-bottom: 20px;
+}
+
+.site {
+	padding: 15px 20px;
+	background: #fff9dc;
+	border-radius: 30px;
+	margin-bottom: 20px;
+}
+
+.one {
+	padding: 15px 20px;
+	background: #fff9dc;
+	border-radius: 30px;
+	margin-bottom: 20px;
+
+}
+
+.imagestyle {
+	border-radius: 15px;
+	box-shadow: 4px 4px 14px;
+}
